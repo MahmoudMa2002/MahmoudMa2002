@@ -23,6 +23,7 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
   <img src="https://www.svgrepo.com/show/452092/react.svg" alt="React" width="40"/>
   <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" width="40"/>
   <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="Bootstrap" width="40"/>
+  <img src="https://www.svgrepo.com/show/448222/figma.svg" alt="Figma" width="40"/>
 </p>
 
 #### Backend
@@ -35,7 +36,6 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
   <img src="https://www.svgrepo.com/show/361653/vercel-logo.svg" alt="Vercel" width="40"/>
   <img src="https://www.svgrepo.com/show/374167/vite.svg" alt="Vite" width="40"/>
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40"/>
-  <img src="https://www.svgrepo.com/show/448222/figma.svg" alt="Figma" width="40"/>
 </p>
 
 #### Other Languages
