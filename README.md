@@ -10,8 +10,6 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
 
 - 🚀 Built **50+ projects** from small front-end apps to full-stack si  
 - 🤝 **5+ years of customer-facing experience**, which sharpened my communication and problem-solving skills  
-- 🎯 Passionate about writing **clean code** and delivering **user-friendly experiences**  
-
 ---
 
 ### 🛠️ Technology Stack
