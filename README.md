@@ -1,20 +1,21 @@
 # Mahmoud Abu-Al Hayja'a
 **`Software Engineer | Full Stack Developer`**
 
-📩 mazenmahmod201@gmail.com | 🌐 [Portfolio](https://mahmoud-portfolio-henna.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/mahmoud-abu-al-hayja%E2%80%99a-30a270275/)
+✉︎ mazenmahmod201@gmail.com | 🗁 [Portfolio](https://mahmoud-portfolio-henna.vercel.app/) | [in] [LinkedIn](https://www.linkedin.com/in/mahmoud-abu-al-hayja%E2%80%99a-30a270275/)
 
 ---
 
-### 👋 About Me
+### ꩜ About Me
 Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (GPA: 3.33)**.  
 
-- 🚀 Built **50+ projects** from small front-end apps to full-stack si  
-- 🤝 **5+ years of customer-facing experience**, which sharpened my communication and problem-solving skills  
+- Built **50+ projects** from small front-end apps to full-stack si  
+- **5+ years of customer-facing experience**, which sharpened my communication and problem-solving skills
+- Currently working as a **Junior MERN Stack Developer** At Aladdinb2b
 ---
 
-### 🛠️ Technology Stack
+### ꩜ Technology Stack
 
-#### Frontend
+**Frontend**
 <p align="left">
   <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML5" width="40"/>
   <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS3" width="40"/>
@@ -26,7 +27,7 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
   <img src="https://www.svgrepo.com/show/448222/figma.svg" alt="Figma" width="40"/>
 </p>
 
-#### Backend
+**Backend**
 <p align="left">
   <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="Node.js" width="40"/>
   <img src="https://www.svgrepo.com/show/373872/nestjs.svg" alt="NestJS" width="40"/>
@@ -38,7 +39,7 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40"/>
 </p>
 
-#### Other Languages
+**Other Languages**
 <p align="left">
   <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="40"/>
   <img src="https://www.svgrepo.com/show/452088/php.svg" alt="PHP" width="40"/>
@@ -49,9 +50,9 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
 
 ---
 
-### 🌟 Featured Projects
+### ꩜ Featured Projects
 
-#### 🗺️ [MapRoam – Location Discovery Platform](https://jomap.onrender.com)
+**ᨒ𖠰 [MapRoam – Location Discovery Platform](https://jomap.onrender.com)**
 [![MapRoam](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1749575325/Screenshot_1_zr3lzp.png)](https://jomap.onrender.com)  
 **[Live Demo](https://jomap.onrender.com) | [GitHub](https://github.com/MahmoudMa2002/MapRoam)**
 - Full-stack MERN app for discovering & sharing locations  
@@ -59,14 +60,14 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
 - Cloud-based **image uploads** with Cloudinary  
 - **Tech Stack:** MongoDB, Express.js, Bootstrap, Node.js, Cloudinary
 
-#### 💼 [Professional Portfolio Website](https://mahmoud-portfolio-henna.vercel.app/)
+**🗁 [Portfolio Website](https://mahmoud-portfolio-henna.vercel.app/)**
 [![Portfolio](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1750347434/Screenshot_4_kwyvnj.png)](https://mahmoud-portfolio-henna.vercel.app/)  
 **[Live Demo](https://mahmoud-portfolio-henna.vercel.app/) | [GitHub](https://github.com/MahmoudMa2002/Mahmoud_Portfolio)**
 - Modern, **responsive portfolio** showcasing projects and skills  
 - Built with **React.js** + **Tailwind CSS**  
 - **Tech Stack:** React, Tailwind CSS, Vercel
 
-#### 🚀 [50 Projects in 50 Days Challenge](https://codepen.io/collection/YwEpgk)
+**</> [50 Projects in 50 Days](https://codepen.io/collection/YwEpgk)**
 [![50 Projects](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1755782055/photo_2025-06-18_13-05-57_aswiba.jpg)](https://codepen.io/collection/YwEpgk)  
 **[CodePen Collection](https://codepen.io/collection/YwEpgk) | [GitHub](https://github.com/MahmoudMa2002/50projects50days)**
 - Completed **50 unique frontend projects** in 50 days  
