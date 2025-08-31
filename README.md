@@ -1,11 +1,11 @@
 # Mahmoud Abu-Al Hayja'a
 **`Software Engineer | Full Stack Developer`**
 
-✉︎ mazenmahmod201@gmail.com | 🗁 [Portfolio](https://mahmoud-portfolio-henna.vercel.app/) | [in] [LinkedIn](https://www.linkedin.com/in/mahmoud-abu-al-hayja%E2%80%99a-30a270275/)
+@ mazenmahmod201@gmail.com | ☰ [Portfolio](https://mahmoud-portfolio-henna.vercel.app/) | [in] [LinkedIn](https://www.linkedin.com/in/mahmoud-abu-al-hayja%E2%80%99a-30a270275/)
 
 ---
 
-### ꩜ About Me
+### Δ About Me
 Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (GPA: 3.33)**.  
 
 - Built **50+ projects** from small front-end apps to full-stack si  
@@ -13,7 +13,7 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
 - Currently working as a **Junior MERN Stack Developer** At Aladdinb2b
 ---
 
-### ꩜ Technology Stack
+### Δ Technology Stack
 
 **Frontend**
 <p align="left">
@@ -50,7 +50,7 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
 
 ---
 
-### ꩜ Featured Projects
+### Δ Featured Projects
 
 **ᨒ𖠰 [MapRoam – Location Discovery Platform](https://jomap.onrender.com)**
 [![MapRoam](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1749575325/Screenshot_1_zr3lzp.png)](https://jomap.onrender.com)  
@@ -60,7 +60,7 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
 - Cloud-based **image uploads** with Cloudinary  
 - **Tech Stack:** MongoDB, Express.js, Bootstrap, Node.js, Cloudinary
 
-**🗁 [Portfolio Website](https://mahmoud-portfolio-henna.vercel.app/)**
+**☰ [Portfolio Website](https://mahmoud-portfolio-henna.vercel.app/)**
 [![Portfolio](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1750347434/Screenshot_4_kwyvnj.png)](https://mahmoud-portfolio-henna.vercel.app/)  
 **[Live Demo](https://mahmoud-portfolio-henna.vercel.app/) | [GitHub](https://github.com/MahmoudMa2002/Mahmoud_Portfolio)**
 - Modern, **responsive portfolio** showcasing projects and skills  
