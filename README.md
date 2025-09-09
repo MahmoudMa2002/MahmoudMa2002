@@ -62,8 +62,8 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
 -  Secure user authentication with Passport.js
 -  Cloud-based image upload integration with Cloudinary
 -  Responsive UI design with Bootstrap
--  Mobile-friendly interface
-
+-  User Authentication/Authorization
+  
 **Tech Stack:** `MongoDB` `Express.js` `Bootstrap` `Node.js` `Cloudinary`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-6DA55F?logo=node.js&logoColor=white&style=for-the-badge)](https://jomap.onrender.com)
@@ -77,7 +77,6 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
 [![Portfolio Preview](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1750347434/Screenshot_4_kwyvnj.png)](https://mahmoud-portfolio-henna.vercel.app/)
 
 **Highlights:**
--  Fast loading with modern React architecture
 -  Beautiful, responsive design with Tailwind CSS
 -  Optimized for all device sizes
 -  Deployed on Vercel for optimal performance
@@ -97,13 +96,12 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
 **What I Built:**
 -  Interactive UI components and animations
 -  Responsive web applications
--  Performance-optimized solutions
 -  Creative problem-solving implementations
 
 **Skills Developed:**
-- DOM manipulation mastery
+- DOM manipulation 
 - CSS animations and transitions
-- Vanilla JavaScript proficiency
+- Vanilla JavaScript practice
 - Modern web development practices
 
 **Tech Stack:** `HTML5` `CSS3` `Vanilla JavaScript`
