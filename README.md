@@ -1,19 +1,17 @@
-# Mahmoud Abu-Al Hayja'a
-**`Software Engineer | Full Stack Developer`**
+# <img src="./alertLogo.png" alt="Alert Logo" width="20" /> Mahmoud Abu-Al Hayja'a
+**Full Stack Developer | Full Stack Developer**
 
-@ mazenmahmod201@gmail.com | ☰ [Portfolio](https://mahmoud-portfolio-henna.vercel.app/) | [in] [LinkedIn](https://www.linkedin.com/in/mahmoud-abu-al-hayja%E2%80%99a-30a270275/)
 
----
+## <img src="./alertLogo.png" alt="Alert Logo" width="15" /> About Me
 
-### Δ About Me
 Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (GPA: 3.33)**.  
 
-- Built **50+ projects** from small front-end apps to full-stack si  
+- Built **50+ projects** ranging from interactive UI components to full-stack applications
 - **5+ years of customer-facing experience**, which sharpened my communication and problem-solving skills
 - Currently working as a **Junior MERN Stack Developer** At Aladdinb2b
----
 
-### Δ Technology Stack
+
+##  <img src="./alertLogo.png" alt="Alert Logo" width="15" /> Technology Stack
 
 **Frontend**
 <p align="left">
@@ -48,29 +46,70 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
   <img src="https://www.svgrepo.com/show/353622/c-sharp.svg" alt="C#" width="40"/>
 </p>
 
+
+##  <img src="./alertLogo.png" alt="Alert Logo" width="15" /> Featured Projects
+
+###  [MapRoam - Location Discovery Platform](https://jomap.onrender.com)
+**A comprehensive platform for discovering and sharing amazing locations**
+
+[![MapRoam Preview](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1749575325/Screenshot_1_zr3lzp.png)](https://jomap.onrender.com)
+
+**Key Features:**
+-  Secure user authentication with Passport.js
+-  Cloud-based image upload integration with Cloudinary
+-  Responsive UI design with Bootstrap
+-  Mobile-friendly interface
+
+**Tech Stack:** `MongoDB` `Express.js` `Bootstrap` `Node.js` `Cloudinary`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-black?style=for-the-badge)](https://jomap.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-black?style=for-the-badge&logo=github)](https://github.com/MahmoudMa2002/MapRoam)
+
 ---
 
-### Δ Featured Projects
+###  [Personal Portfolio](https://mahmoud-portfolio-henna.vercel.app/)
+**Modern, responsive portfolio showcasing my journey and projects**
 
-**ᨒ𖠰 [MapRoam – Location Discovery Platform](https://jomap.onrender.com)**
-[![MapRoam](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1749575325/Screenshot_1_zr3lzp.png)](https://jomap.onrender.com)  
-**[Live Demo](https://jomap.onrender.com) | [GitHub](https://github.com/MahmoudMa2002/MapRoam)**
-- Full-stack MERN app for discovering & sharing locations  
-- Secure **user authentication** using Passport.js  
-- Cloud-based **image uploads** with Cloudinary  
-- **Tech Stack:** MongoDB, Express.js, Bootstrap, Node.js, Cloudinary
+[![Portfolio Preview](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1750347434/Screenshot_4_kwyvnj.png)](https://mahmoud-portfolio-henna.vercel.app/)
 
-**☰ [Portfolio Website](https://mahmoud-portfolio-henna.vercel.app/)**
-[![Portfolio](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1750347434/Screenshot_4_kwyvnj.png)](https://mahmoud-portfolio-henna.vercel.app/)  
-**[Live Demo](https://mahmoud-portfolio-henna.vercel.app/) | [GitHub](https://github.com/MahmoudMa2002/Mahmoud_Portfolio)**
-- Modern, **responsive portfolio** showcasing projects and skills  
-- Built with **React.js** + **Tailwind CSS**  
-- **Tech Stack:** React, Tailwind CSS, Vercel
+**Highlights:**
+-  Fast loading with modern React architecture
+-  Beautiful, responsive design with Tailwind CSS
+-  Optimized for all device sizes
+-  Deployed on Vercel for optimal performance
 
-**</> [50 Projects in 50 Days](https://codepen.io/collection/YwEpgk)**
-[![50 Projects](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1755782055/photo_2025-06-18_13-05-57_aswiba.jpg)](https://codepen.io/collection/YwEpgk)  
-**[CodePen Collection](https://codepen.io/collection/YwEpgk) | [GitHub](https://github.com/MahmoudMa2002/50projects50days)**
-- Completed **50 unique frontend projects** in 50 days  
-- Learned **DOM manipulation, CSS animations, and responsive design**  
-- Projects include UI components, interactive elements, and modern web features  
-- **Tech Stack:** HTML5, CSS3, Vanilla JavaScript
+**Tech Stack:** `React.js` `Tailwind CSS` `Vercel`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-black?style=for-the-badge)](https://mahmoud-portfolio-henna.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-black?style=for-the-badge&logo=github)](https://github.com/MahmoudMa2002/Mahmoud_Portfolio)
+
+---
+
+###  [50 Projects in 50 Days Challenge](https://codepen.io/collection/YwEpgk)
+**An intensive coding challenge that strengthened my frontend fundamentals**
+
+[![50 Projects Preview](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1755782055/photo_2025-06-18_13-05-57_aswiba.jpg)](https://codepen.io/collection/YwEpgk)
+
+**What I Built:**
+-  Interactive UI components and animations
+-  Responsive web applications
+-  Performance-optimized solutions
+-  Creative problem-solving implementations
+
+**Skills Developed:**
+- DOM manipulation mastery
+- CSS animations and transitions
+- Vanilla JavaScript proficiency
+- Modern web development practices
+
+**Tech Stack:** `HTML5` `CSS3` `Vanilla JavaScript`
+
+[![CodePen Collection](https://img.shields.io/badge/CodePen-View_Collection-black?style=for-the-badge&logo=codepen)](https://codepen.io/collection/YwEpgk)
+[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-black?style=for-the-badge&logo=github)](https://github.com/MahmoudMa2002/50projects50days)
+
+
+## <img src="./alertLogo.png" alt="Alert Logo" width="15" />  Let's Connect!
+
+- **Portfolio:** [mahmoud-portfolio-henna.vercel.app](https://mahmoud-portfolio-henna.vercel.app/)
+- **Email:** [mazenmahmod201@gmail.com](mailto:mazenmahmod201@gmail.com)
+- **LinkedIn:** [Mahmoud Abu-Al Hayja'a](https://www.linkedin.com/in/mahmoud-abu-al-hayja%E2%80%99a-30a270275/)
