@@ -66,8 +66,8 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
 
 **Tech Stack:** `MongoDB` `Express.js` `Bootstrap` `Node.js` `Cloudinary`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-black?style=for-the-badge)](https://jomap.onrender.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-black?style=for-the-badge&logo=github)](https://github.com/MahmoudMa2002/MapRoam)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6DA55F?logo=node.js&logoColor=white&style=for-the-badge)](https://jomap.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/MahmoudMa2002/MapRoam)
 
 ---
 
@@ -84,8 +84,8 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
 
 **Tech Stack:** `React.js` `Tailwind CSS` `Vercel`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-black?style=for-the-badge)](https://mahmoud-portfolio-henna.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-black?style=for-the-badge&logo=github)](https://github.com/MahmoudMa2002/Mahmoud_Portfolio)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge)](https://mahmoud-portfolio-henna.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/MahmoudMa2002/Mahmoud_Portfolio)
 
 ---
 
@@ -108,8 +108,8 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
 
 **Tech Stack:** `HTML5` `CSS3` `Vanilla JavaScript`
 
-[![CodePen Collection](https://img.shields.io/badge/CodePen-View_Collection-black?style=for-the-badge&logo=codepen)](https://codepen.io/collection/YwEpgk)
-[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-black?style=for-the-badge&logo=github)](https://github.com/MahmoudMa2002/50projects50days)
+[![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black&style=for-the-badge)](https://codepen.io/collection/YwEpgk)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/MahmoudMa2002/50projects50days)
 
 
 ## <img src="./alertLogo.png" alt="Alert Logo" width="15" />  Let's Connect!
