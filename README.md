@@ -1,6 +1,10 @@
 # <img src="./alertLogo.png" alt="Alert Logo" width="20" /> Mahmoud Abu-Al Hayja'a
 **Full Stack Developer | Full Stack Developer**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://mahmoud-portfolio-henna.vercel.app/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/mahmoud-abu-al-hayja’a-30a270275/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazenmahmod201@gmail.com)
+
 
 ## <img src="./alertLogo.png" alt="Alert Logo" width="15" /> About Me
 
