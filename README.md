@@ -23,22 +23,39 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
   <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS3" width="40"/>
   <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="JavaScript" width="40"/>
   <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="TypeScript" width="40"/>
-  <img src="https://www.svgrepo.com/show/452092/react.svg" alt="React" width="40"/>
-  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" width="40"/>
   <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="Bootstrap" width="40"/>
-  <img src="https://www.svgrepo.com/show/448222/figma.svg" alt="Figma" width="40"/>
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" width="40"/>
+  <img src="https://www.svgrepo.com/show/373574/ejs.svg" alt="EJS" width="40"/>
+  <img src="https://www.svgrepo.com/show/452092/react.svg" alt="React" width="40"/>
 </p>
 
 **Backend**
 <p align="left">
   <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="Node.js" width="40"/>
   <img src="https://www.svgrepo.com/show/373872/nestjs.svg" alt="NestJS" width="40"/>
+  <img src="https://www.svgrepo.com/show/376367/express.svg" alt="Express.js" width="40"/>
+  <img src="https://miro.medium.com/v2/resize:fit:300/1*MipdKsttqecPnkKF1DL-qA.png" alt="Passport.js" width="40"/>
+</p>
+
+**Databases**
+<p align="left">
   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="40"/>
   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" width="40"/>
+  <img src="https://www.svgrepo.com/show/373980/plsql.svg" alt="PL/SQL" width="40"/>
+</p>
+
+**Tools**
+<p align="left">
   <img src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" width="40"/>
+  <img src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg" alt="Render" width="40"/>
+  <img src="https://www.svgrepo.com/show/303683/heroku-logo.svg" alt="Heroku" width="40"/>
   <img src="https://www.svgrepo.com/show/361653/vercel-logo.svg" alt="Vercel" width="40"/>
   <img src="https://www.svgrepo.com/show/374167/vite.svg" alt="Vite" width="40"/>
+  <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="VS Code" width="40"/>
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40"/>
+  <img src="https://www.svgrepo.com/show/354035/mapbox-icon.svg" alt="Mapbox" width="40"/>
+  <img src="https://www.svgrepo.com/show/448222/figma.svg" alt="Figma" width="40"/>
+  <img src="https://www.svgrepo.com/show/331649/wix.svg" alt="Wix" width="40"/>
 </p>
 
 **Other Languages**
@@ -49,6 +66,7 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
   <img src="https://www.svgrepo.com/show/452183/cpp.svg" alt="C++" width="40"/>
   <img src="https://www.svgrepo.com/show/353622/c-sharp.svg" alt="C#" width="40"/>
 </p>
+
 
 
 ##  <img src="./alertLogo.png" alt="Alert Logo" width="15" /> Featured Projects
