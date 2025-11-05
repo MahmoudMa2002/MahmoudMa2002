@@ -74,7 +74,7 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
 ###  [MapRoam - Location Discovery Platform](https://jomap.onrender.com)
 **A comprehensive platform for discovering and sharing amazing locations**
 
-[![MapRoam Preview](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1749575325/Screenshot_1_zr3lzp.png)](https://jomap.onrender.com)
+[![MapRoam Preview](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1749575325/Screenshot_1_zr3lzp.png)](https://github.com/MahmoudMa2002/MapRoam)
 
 **Key Features:**
 -  Secure user authentication with Passport.js
@@ -92,7 +92,7 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
 ###  [Personal Portfolio](https://mahmoud-portfolio-henna.vercel.app/)
 **Modern, responsive portfolio showcasing my journey and projects**
 
-[![Portfolio Preview](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1750347434/Screenshot_4_kwyvnj.png)](https://mahmoud-portfolio-henna.vercel.app/)
+[![Portfolio Preview](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1750347434/Screenshot_4_kwyvnj.png)](https://github.com/MahmoudMa2002/Mahmoud_Portfolio)
 
 **Highlights:**
 -  Beautiful, responsive design with Tailwind CSS
@@ -109,7 +109,7 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
 ###  [50 Projects in 50 Days Challenge](https://codepen.io/collection/YwEpgk)
 **An intensive coding challenge that strengthened my frontend fundamentals**
 
-[![50 Projects Preview](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1755782055/photo_2025-06-18_13-05-57_aswiba.jpg)](https://codepen.io/collection/YwEpgk)
+[![50 Projects Preview](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1755782055/photo_2025-06-18_13-05-57_aswiba.jpg)](https://github.com/MahmoudMa2002/50projects50days)
 
 **What I Built:**
 -  Interactive UI components and animations
