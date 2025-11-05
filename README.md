@@ -71,10 +71,10 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
 
 ##  <img src="./alertLogo.png" alt="Alert Logo" width="15" /> Featured Projects
 
-###  [MapRoam - Location Discovery Platform](https://jomap.onrender.com)
+###  [MapRoam - Location Discovery Platform](https://github.com/MahmoudMa2002/MapRoam)
 **A comprehensive platform for discovering and sharing amazing locations**
 
-[![MapRoam Preview](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1749575325/Screenshot_1_zr3lzp.png)](https://github.com/MahmoudMa2002/MapRoam)
+![MapRoam Preview](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1749575325/Screenshot_1_zr3lzp.png)
 
 **Key Features:**
 -  Secure user authentication with Passport.js
@@ -89,10 +89,10 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
 
 ---
 
-###  [Personal Portfolio](https://mahmoud-portfolio-henna.vercel.app/)
+###  [Personal Portfolio](https://github.com/MahmoudMa2002/Mahmoud_Portfolio)
 **Modern, responsive portfolio showcasing my journey and projects**
 
-[![Portfolio Preview](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1750347434/Screenshot_4_kwyvnj.png)](https://github.com/MahmoudMa2002/Mahmoud_Portfolio)
+![Portfolio Preview](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1750347434/Screenshot_4_kwyvnj.png)
 
 **Highlights:**
 -  Beautiful, responsive design with Tailwind CSS
@@ -106,10 +106,10 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
 
 ---
 
-###  [50 Projects in 50 Days Challenge](https://codepen.io/collection/YwEpgk)
+###  [50 Projects in 50 Days Challenge](https://github.com/MahmoudMa2002/50projects50days)
 **An intensive coding challenge that strengthened my frontend fundamentals**
 
-[![50 Projects Preview](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1755782055/photo_2025-06-18_13-05-57_aswiba.jpg)](https://github.com/MahmoudMa2002/50projects50days)
+![50 Projects Preview](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1755782055/photo_2025-06-18_13-05-57_aswiba.jpg)
 
 **What I Built:**
 -  Interactive UI components and animations
