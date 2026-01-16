@@ -101,8 +101,8 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University**.
 
 **Tech Stack:** `React.js` `Tailwind CSS` `CSS3` `Vite` `JavaScript`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge)](https://mahmoud-portfolio-henna.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/MahmoudMa2002/Mahmoud_Portfolio)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge)](https://github.com/MahmoudMa2002/react-projects?tab=readme-ov-file#project-list)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/MahmoudMa2002/react-projects.git)
 
 ---
 
