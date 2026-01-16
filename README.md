@@ -8,7 +8,7 @@
 
 ## <img src="./alertLogo.png" alt="Alert Logo" width="15" /> About Me
 
-Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (GPA: 3.33)**.  
+Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University**.  
 
 - Built **50+ projects** ranging from interactive UI components to full-stack applications
 - **5+ years of customer-facing experience**, which sharpened my communication and problem-solving skills
@@ -89,17 +89,17 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
 
 ---
 
-###  [Personal Portfolio](https://github.com/MahmoudMa2002/Mahmoud_Portfolio)
-**Modern, responsive portfolio showcasing my journey and projects**
+###  [React Projects](https://github.com/MahmoudMa2002/react-projects.git)
+**React projects collection**
 
-![Portfolio Preview](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1750347434/Screenshot_4_kwyvnj.png)
+![Collection Preview](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1768316435/picsart_26-01-13_17-02-27-487_wurute.png)
 
 **Highlights:**
--  Beautiful, responsive design with Tailwind CSS
--  Optimized for all device sizes
--  Deployed on Vercel for optimal performance
+-  Small-to-medium React projects using React + Vite
+-  Reusable components, hooks, and clean project structure
+-  Will add more projects as the repo grows
 
-**Tech Stack:** `React.js` `Tailwind CSS` `Vercel`
+**Tech Stack:** `React.js` `Tailwind CSS` `CSS3` `Vite` `JavaScript`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge)](https://mahmoud-portfolio-henna.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/MahmoudMa2002/Mahmoud_Portfolio)
@@ -111,16 +111,11 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
 
 ![50 Projects Preview](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1755782055/photo_2025-06-18_13-05-57_aswiba.jpg)
 
-**What I Built:**
+**Highlights:**
 -  Interactive UI components and animations
 -  Responsive web applications
 -  Creative problem-solving implementations
 
-**Skills Developed:**
-- DOM manipulation 
-- CSS animations and transitions
-- Vanilla JavaScript practice
-- Modern web development practices
 
 **Tech Stack:** `HTML5` `CSS3` `Vanilla JavaScript`
 
@@ -128,7 +123,7 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University (G
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/MahmoudMa2002/50projects50days)
 
 
-## <img src="./alertLogo.png" alt="Alert Logo" width="15" />  Let's Connect!
+## <img src="./alertLogo.png" alt="Alert Logo" width="15" />  Socials
 
 - **Portfolio:** [mahmoud-portfolio-henna.vercel.app](https://mahmoud-portfolio-henna.vercel.app/)
 - **Email:** [mazenmahmod201@gmail.com](mailto:mazenmahmod201@gmail.com)
