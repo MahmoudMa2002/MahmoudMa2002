@@ -1,5 +1,4 @@
 # <img src="./alertLogo.png" alt="Alert Logo" width="20" /> Mahmoud Abu-Al Hayja'a
-**Full Stack Developer | Full Stack Developer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://mahmoud-mazen-portfolio.vercel.app/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/mahmoud-abu-al-hayja’a-30a270275/)
@@ -10,12 +9,11 @@
 
 Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University**.  
 
-- Built **50+ projects** ranging from interactive UI components to full-stack applications
-- **5+ years of customer-facing experience**, which sharpened my communication and problem-solving skills
-- Currently working as a **Junior MERN Stack Developer** At Aladdinb2b
+- Built **50+ projects** ranging from small UI components to full-stack apps
+- **1 year of web development experience**, Currently working as a **Junior MERN Stack Developer** At Aladdinb2b 
+- **5+ years of customer-facing experience**, which improved my communication and problem-solving skills
 
-
-##  <img src="./alertLogo.png" alt="Alert Logo" width="15" /> Technology Stack
+##  <img src="./alertLogo.png" alt="Alert Logo" width="15" /> Tech Stack
 
 **Frontend**
 <p align="left">
@@ -67,20 +65,19 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University**.
   <img src="https://www.svgrepo.com/show/353622/c-sharp.svg" alt="C#" width="40"/>
 </p>
 
-
-
 ##  <img src="./alertLogo.png" alt="Alert Logo" width="15" /> Featured Projects
 
 ###  [MapRoam - Location Discovery Platform](https://github.com/MahmoudMa2002/MapRoam)
-**A comprehensive platform for discovering and sharing amazing locations**
+**A complete app for discovering and sharing locations**
 
 ![MapRoam Preview](https://res.cloudinary.com/dqcv0p9p6/image/upload/v1749575325/Screenshot_1_zr3lzp.png)
 
 **Key Features:**
 -  Secure user authentication with Passport.js
--  Cloud-based image upload integration with Cloudinary
+-  Cloud-based image upload with Cloudinary
 -  Responsive UI design with Bootstrap
 -  User Authentication/Authorization
+-  Coded manually as part of Colt Seetle web development bootcamp
   
 **Tech Stack:** `MongoDB` `Express.js` `Bootstrap` `Node.js` `Cloudinary`
 
@@ -97,7 +94,7 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University**.
 **Highlights:**
 -  Small-to-medium React projects using React + Vite
 -  Reusable components, hooks, and clean project structure
--  Will add more projects as the repo grows
+-  Coded manually as part of learning React using a verity of different resources.
 
 **Tech Stack:** `React.js` `Tailwind CSS` `CSS3` `Vite` `JavaScript`
 
@@ -114,7 +111,8 @@ Hi! I’m **Mahmoud**, a Software Engineering graduate from **JUST University**.
 **Highlights:**
 -  Interactive UI components and animations
 -  Responsive web applications
--  Creative problem-solving implementations
+-  Updated UI + added features to the original components in the course
+-  Coded manually as part of Brad Traversy 50 Projects In 50 Days course
 
 
 **Tech Stack:** `HTML5` `CSS3` `Vanilla JavaScript`
